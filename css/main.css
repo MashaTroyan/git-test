@@ -1,3 +1,6 @@
 body {
     background: rgb(85, 69, 141);
 }
+h2 {
+    border: 2px color gold;
+}
